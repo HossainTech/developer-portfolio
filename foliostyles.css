@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 100px;
+     
+}
+.menu{
+    display: flex;
+}
+.menu ul li{
+    display: inline;
+    justify-content: space-around;
+    margin-right: 20px;
+}
+ 
+
+header{
+    display: inline;
+}
